@@ -1,3 +1,10 @@
 1. Hi myself Aranganambi Elumalai
 2. Working as a automation test engineer in Mphasis ltd
 3. Currently i am getting 14.5 LPA salary
+
+4. Skillset
+    a. JAVA
+    b. Selenium Webdriver
+    c. TestNG
+    d. Cucumber
+    e. Manual Testing
