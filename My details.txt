@@ -8,3 +8,7 @@
     c. TestNG
     d. Cucumber
     e. Manual Testing
+    
+Adding-my-graduation-details
+5. Graduation details
+    a. BE Civil Engineer with 7.5 CGPA
