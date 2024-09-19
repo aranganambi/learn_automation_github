@@ -1,6 +1,6 @@
 1. Hi myself Aranganambi Elumalai
-2. Working as a automation test engineer in Mphasis ltd
-3. Currently i am getting 14.5 LPA salary
+2. Working as an automation test engineer in Mphasis Ltd
+3. Currently I am getting a 14.5 LPA salary
 
 4. Skillset
     a. JAVA
@@ -9,10 +9,9 @@
     d. Cucumber
     e. Manual Testing
     
-Adding-my-graduation-details
-5. Graduation details
-    a. BE Civil Engineer with 7.5 CGPA
+5. Graduation details -> BE Civil Engineer with 7.5 CGPA
 
-6. School details
-    a. MCTM HR SEC SCHOOL CHENNAI
+6. School details -> MCTM HR SEC SCHOOL CHENNAI
 
+7. Native details -> Thenpalai
+    
