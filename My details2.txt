@@ -1,0 +1,21 @@
+
+1. Hi myself Vinoth Elumalai
+2. Working as an automation test engineer in Mphasis Ltd
+3. Currently I am getting a 14.5 LPA salary
+
+4. Skillset
+    a. JAVA
+    b. Selenium Webdriver
+    c. TestNG
+    d. Cucumber
+    e. Manual Testing
+    f. TOSCA
+    g. PlayWright
+    h. Typesript
+    
+5. Graduation details -> BE Civil Engineer with 7.5 CGPA
+
+6. School details -> MCTM HR SEC SCHOOL CHENNAI
+
+7. Native details -> Thenpalai
+    
